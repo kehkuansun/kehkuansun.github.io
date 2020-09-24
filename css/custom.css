@@ -18,3 +18,11 @@
  clear: both;
  padding: 1em;
 }
+@media only screen and (max-width: 600px) {
+    .column_left {
+     width: 100%;
+    }
+    .column_right {
+      width: 100%;
+    }
+}

@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://kehkuansun.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Teaching</title>
+      <link>https://kehkuansun.github.io/teaching/</link>
+      <pubDate>Wed, 22 Jul 2020 22:08:40 -0600</pubDate>
+      
+      <guid>https://kehkuansun.github.io/teaching/</guid>
+      <description>As instructor, Chapman University:  Principles of Microeconomics (Econ 200, Undergraduate): Fall 2021  As instructor, Washington University in St. Louis:  Introduction to Microeconomics (Econ 1011, Undergraduate): Summer 2017 [eval] [syllabus] Behavioral Economics (Econ 305, Undergraduate): Summer 2018 (cancelled) [syllabus]  As teaching assistant, Washington University in St. Louis:  Behavioral Economics and Experimental Economics (Econ 404, Undergraduate): Spring 2017, Spring 2018, Spring 2019 [eval] [eval] Introduction to Macroeconomics: Fall 2016  As teaching assistant, Yonsei University:  Game Theory (Undergraduate): Fall 2012, Spring 2013, Spring 2014, Spring 2015 Economics of Uncertainty (Undergraduate): Spring 2014 Contract Theory (Undergraduate): Fall 2014  </description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://kehkuansun.github.io/about/</link>
       <pubDate>Sat, 01 Feb 2020 22:59:54 -0600</pubDate>
@@ -24,15 +33,6 @@
       <guid>https://kehkuansun.github.io/research/</guid>
       <description>Publication  &amp;ldquo;Habits as Adaptations: An Experimental Study&amp;rdquo; with Ludmila Matysková, Brian Rogers, and Jakub Steiner, Games and Economic Behavior, Volume 122, July 2020, pp. 391-406 [paper]  Job Market Paper  &amp;ldquo;Lying Aversion and Vague Communication: An Experimental Study&amp;rdquo; with Guangying Chen
 [abstract] [slides] [video](Draft available upon request.)  We study the interplay between the strategic and the behavioral aspects of potentially vague communication through an online experiment governed by a novel theoretical analysis.</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://kehkuansun.github.io/teaching/</link>
-      <pubDate>Sat, 01 Feb 2020 22:08:40 -0600</pubDate>
-      
-      <guid>https://kehkuansun.github.io/teaching/</guid>
-      <description>As instructor:  Introduction to Microeconomics (Econ 1011): Summer 2017 [eval] [syllabus] Behavioral Economics (Econ 305): Summer 2018 (cancelled) [syllabus]  As teaching assistant:  Behavioral Economics and Experimental Economics (Econ 404): Spring 2017, Spring 2018, Spring 2019 [eval] [eval] Introduction to Macroeconomics: Fall 2016  Past teaching experience (School of Economics, Yonsei University): As teaching assistant:  Undergraduate Game Theory: Fall 2012, Spring 2013, Spring 2014, Spring 2015 Undergraduate Economics of Uncertainty: Spring 2014 Undergraduate Contract Theory: Fall 2014  </description>
     </item>
     
   </channel>

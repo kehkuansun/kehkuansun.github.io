@@ -5,7 +5,22 @@
     <link>https://kehkuansun.github.io/</link>
     <description>Recent content on Keh-Kuan Sun</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://kehkuansun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Dec 2022 22:20:00 -0600</lastBuildDate><atom:link href="https://kehkuansun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiment Summary</title>
+      <link>https://kehkuansun.github.io/public_summary/experiment_id/</link>
+      <pubDate>Sun, 04 Dec 2022 22:20:00 -0600</pubDate>
+      
+      <guid>https://kehkuansun.github.io/public_summary/experiment_id/</guid>
+      <description>Thank you for participating in [[ experiment title ]] on [[ experiment date ]]. We are currently analyzing the data. Please come back to this webpage if you are interested in the results. If you have more questions, please feel free to contact the researchers.
+Research Summary TBA
+Main Findings TBA
+Researchers Keh-Kuan Sun
+Postdoctoral Research Associate, Smith Institute for Political Economy and Philosophy, Chapman University.
+Email: kesun [at] chapman [dot] edu Edward Honda</description>
+    </item>
+    
     <item>
       <title>Teaching</title>
       <link>https://kehkuansun.github.io/teaching/</link>
@@ -37,9 +52,9 @@ Fall 2016 As teaching assistant, Yonsei University: Game Theory (Undergraduate, 
       
       <guid>https://kehkuansun.github.io/research/</guid>
       <description>Publication &amp;ldquo;Habits as Adaptations: An Experimental Study&amp;rdquo;
-with Ludmila Matysková, Brian Rogers, and Jakub Steiner, Games and Economic Behavior, Volume 122, July 2020, pp. 391-406 [paper] Working Paper &amp;ldquo;Lying Aversion and Vague Communication: An Experimental Study&amp;rdquo;
-with Guangying Chen and Stella Papadokonstantaki [abstract] [poster (AEA2022)] [video][draft]
-We study the interplay between the strategic and the behavioral aspects of potentially vague communication through an online experiment governed by a novel theoretical analysis.</description>
+with Ludmila Matysková, Brian Rogers, and Jakub Steiner, Games and Economic Behavior, Volume 122, July 2020, pp. 391-406 [paper] Working Paper &amp;ldquo;Lying Aversion and Vague Communication: An Experimental Study&amp;rdquo; (submitted)
+with Stella Papadokonstantaki [abstract] [poster (AEA2022)] [video][draft]
+We study the interplay between the strategic and the behavioral aspects of potentially vague communication through an online experiment governed by a novel theoretical analysis. The online experiment varies the availability of vague messages and the anonymity of subjects to test the predictions and, in particular, to separate the internal and external costs of dishonesty.</description>
     </item>
     
   </channel>

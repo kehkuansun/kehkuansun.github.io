@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kehkuansun.github.io/about/</loc>
+    <lastmod>2023-02-28T11:18:00-06:00</lastmod>
+  </url><url>
+    <loc>https://kehkuansun.github.io/research/</loc>
+    <lastmod>2023-02-28T11:18:00-06:00</lastmod>
+  </url><url>
     <loc>https://kehkuansun.github.io/public_summary/experiment_id/</loc>
     <lastmod>2022-12-04T22:20:00-06:00</lastmod>
   </url><url>
@@ -13,12 +19,6 @@
   </url><url>
     <loc>https://kehkuansun.github.io/teaching/</loc>
     <lastmod>2020-07-22T22:08:40-06:00</lastmod>
-  </url><url>
-    <loc>https://kehkuansun.github.io/about/</loc>
-    <lastmod>2020-02-01T22:59:54-06:00</lastmod>
-  </url><url>
-    <loc>https://kehkuansun.github.io/research/</loc>
-    <lastmod>2020-02-01T22:20:36-06:00</lastmod>
   </url><url>
     <loc>https://kehkuansun.github.io/categories/</loc>
   </url><url>

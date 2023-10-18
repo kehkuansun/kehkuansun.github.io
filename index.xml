@@ -8,24 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Dec 2022 22:20:00 -0600</lastBuildDate><atom:link href="https://kehkuansun.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Research</title>
+      <link>https://kehkuansun.github.io/research/</link>
+      <pubDate>Tue, 17 Oct 2023 15:37:00 -0500</pubDate>
+      
+      <guid>https://kehkuansun.github.io/research/</guid>
+      <description>Publication &amp;ldquo;Habits as Adaptations: An Experimental Study&amp;rdquo;
+with Ludmila Matysková, Brian Rogers, and Jakub Steiner, Games and Economic Behavior, Volume 122, July 2020, pp. 391-406. [paper]
+&amp;ldquo;Lying Aversion and Vague Communication: An Experimental Study&amp;rdquo;
+with Stella Papadokonstantaki, European Economic Review, forthcoming. [paper] [ArXiv] [poster (AEA2022)] [video]
+Work in Progress &amp;ldquo;Non-Allais Paradox and Context Dependent Risk Attitudes&amp;rdquo; with Edward Honda [abstract] &amp;ldquo;Reporting Incentives and the Structure of a Community&amp;rdquo; [abstract] [draft available upon request] &amp;ldquo;Preferences for Mixing&amp;rdquo; with John Rehbeck &amp;ldquo;Hope and Belief&amp;rdquo; with Erik Kimbrough &amp;ldquo;Communication, Coordination, and Language Styles&amp;rdquo; with Saumya Deojain “Assortative Mixing in Networks” Laboratory Experience Lab manager of the Missouri Social Science Experimental Laboratory (MISSEL) Software support for researchers (zTree/oTree) Experiment system server management (CentOS/ORSEE) </description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://kehkuansun.github.io/about/</link>
       <pubDate>Mon, 11 Sep 2023 14:30:00 -0600</pubDate>
       
       <guid>https://kehkuansun.github.io/about/</guid>
       <description>I am a behavioral and experimental economist. My research interest lies in understanding human nature through the lens of behavioral models of rational agents. I try to uncover the structure of underlying preferences that are hidden behind the constraints of information, social norms, or network structures, through both theoretical and experimental means. I received my Ph.D. in Economics from Washington University in St. Louis. I am an Assitant Professor in the Department of Economics at Fairfield University.</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://kehkuansun.github.io/research/</link>
-      <pubDate>Mon, 11 Sep 2023 14:30:00 -0600</pubDate>
-      
-      <guid>https://kehkuansun.github.io/research/</guid>
-      <description>Publication &amp;ldquo;Habits as Adaptations: An Experimental Study&amp;rdquo;
-with Ludmila Matysková, Brian Rogers, and Jakub Steiner, Games and Economic Behavior, Volume 122, July 2020, pp. 391-406 [paper] Working Paper &amp;ldquo;Lying Aversion and Vague Communication: An Experimental Study&amp;rdquo; (accepted with minor revision, European Economic Review)
-with Stella Papadokonstantaki [poster (AEA2022)] [video][draft]
-Using a novel experimental design that allows participants to be vague while at the same time isolating the internal cost of lying from the social identity cost of appearing dishonest, we explore the extent to which these two types of lying costs affect communication.</description>
     </item>
     
     <item>

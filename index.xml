@@ -6,58 +6,35 @@
     <description>Recent content on Keh-Kuan Sun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Dec 2022 22:20:00 -0600</lastBuildDate><atom:link href="https://kehkuansun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Dec 2022 22:20:00 -0600</lastBuildDate>
+    <atom:link href="https://kehkuansun.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
       <link>https://kehkuansun.github.io/research/</link>
-      <pubDate>Tue, 17 Oct 2023 15:37:00 -0500</pubDate>
-      
+      <pubDate>Tue, 09 Jan 2024 15:37:00 -0500</pubDate>
       <guid>https://kehkuansun.github.io/research/</guid>
-      <description>Publication &amp;ldquo;Habits as Adaptations: An Experimental Study&amp;rdquo;
-with Ludmila Matysková, Brian Rogers, and Jakub Steiner, Games and Economic Behavior, Volume 122, July 2020, pp. 391-406. [paper]
-&amp;ldquo;Lying Aversion and Vague Communication: An Experimental Study&amp;rdquo;
-with Stella Papadokonstantaki, European Economic Review, forthcoming. [paper] [ArXiv] [poster (AEA2022)] [video]
-Work in Progress &amp;ldquo;Non-Allais Paradox and Context Dependent Risk Attitudes&amp;rdquo; with Edward Honda [abstract] &amp;ldquo;Reporting Incentives and the Structure of a Community&amp;rdquo; [abstract] [draft available upon request] &amp;ldquo;Preferences for Mixing&amp;rdquo; with John Rehbeck &amp;ldquo;Hope and Belief&amp;rdquo; with Erik Kimbrough &amp;ldquo;Communication, Coordination, and Language Styles&amp;rdquo; with Saumya Deojain “Assortative Mixing in Networks” Laboratory Experience Lab manager of the Missouri Social Science Experimental Laboratory (MISSEL) Software support for researchers (zTree/oTree) Experiment system server management (CentOS/ORSEE) </description>
+      <description>Publication &amp;ldquo;Habits as Adaptations: An Experimental Study&amp;rdquo;&#xA;with Ludmila Matysková, Brian Rogers, and Jakub Steiner, Games and Economic Behavior, Volume 122, July 2020, pp. 391-406. [paper]&#xA;&amp;ldquo;Lying Aversion and Vague Communication: An Experimental Study&amp;rdquo;&#xA;with Stella Papadokonstantaki, European Economic Review, Volume 160, November 2023, 104611. [paper] [ArXiv] [poster (AEA2022)] [video]&#xA;Work in Progress &amp;ldquo;Non-Allais Paradox and Context Dependent Risk Attitudes&amp;rdquo; with Edward Honda [abstract] &amp;ldquo;Reporting Incentives and the Structure of a Community&amp;rdquo; [abstract] [draft available upon request] &amp;ldquo;Preferences for Mixing&amp;rdquo; with John Rehbeck &amp;ldquo;Hope and Belief&amp;rdquo; with Erik Kimbrough &amp;ldquo;Communication, Coordination, and Language Styles&amp;rdquo; with Saumya Deojain “Assortative Mixing in Networks” Laboratory Experience Lab manager of the Missouri Social Science Experimental Laboratory (MISSEL) Software support for researchers (zTree/oTree) Experiment system server management (CentOS/ORSEE) </description>
     </item>
-    
+    <item>
+      <title>Teaching</title>
+      <link>https://kehkuansun.github.io/teaching/</link>
+      <pubDate>Tue, 09 Jan 2024 14:30:00 -0600</pubDate>
+      <guid>https://kehkuansun.github.io/teaching/</guid>
+      <description>Fairfield University: Introduction to Microeconomics (Econ 1011, Undergraduate):&#xA;Fall 2023, Spring 2024 [syllabus] Introduction to Macroeconomics (Econ 1012, Undergraduate):&#xA;Spring 2024 [syllabus] Behavioral Economics (Econ 3244, Undergraduate):&#xA;Fall 2023 [syllabus] Chapman University: Principles of Microeconomics (Econ 200, Undergraduate):&#xA;Fall 2022 [syllabus]&#xA;Fall 2021 [syllabus] Washington University in St. Louis: Introduction to Microeconomics (Econ 1011, Undergraduate):&#xA;Summer 2017 [syllabus] Behavioral Economics (Econ 305, Undergraduate):&#xA;Summer 2018 (cancelled) [syllabus] As teaching assistant, Washington University in St.</description>
+    </item>
     <item>
       <title>About me</title>
       <link>https://kehkuansun.github.io/about/</link>
       <pubDate>Mon, 11 Sep 2023 14:30:00 -0600</pubDate>
-      
       <guid>https://kehkuansun.github.io/about/</guid>
       <description>I am a behavioral and experimental economist. My research interest lies in understanding human nature through the lens of behavioral models of rational agents. I try to uncover the structure of underlying preferences that are hidden behind the constraints of information, social norms, or network structures, through both theoretical and experimental means. I received my Ph.D. in Economics from Washington University in St. Louis. I am an Assitant Professor in the Department of Economics at Fairfield University.</description>
     </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://kehkuansun.github.io/teaching/</link>
-      <pubDate>Mon, 11 Sep 2023 14:30:00 -0600</pubDate>
-      
-      <guid>https://kehkuansun.github.io/teaching/</guid>
-      <description>Fairfield University: Introduction to Microeconomics (Econ 1011, Undergraduate):
-Fall 2023 [syllabus] Behavioral Economics (Econ 3244, Undergraduate):
-Fall 2023 [syllabus] Chapman University: Principles of Microeconomics (Econ 200, Undergraduate):
-Fall 2022 [eval] [syllabus]
-Fall 2021 [eval] [syllabus] Washington University in St. Louis: Introduction to Microeconomics (Econ 1011, Undergraduate):
-Summer 2017 [eval] [syllabus] Behavioral Economics (Econ 305, Undergraduate):
-Summer 2018 (cancelled) [syllabus] As teaching assistant, Washington University in St. Louis: Behavioral Economics and Experimental Economics (Econ 404, Undergraduate):</description>
-    </item>
-    
     <item>
       <title>Experiment Summary</title>
       <link>https://kehkuansun.github.io/public_summary/experiment_id/</link>
       <pubDate>Sun, 04 Dec 2022 22:20:00 -0600</pubDate>
-      
       <guid>https://kehkuansun.github.io/public_summary/experiment_id/</guid>
-      <description>Thank you for participating in [[ experiment title ]] on [[ experiment date ]]. We are currently analyzing the data. Please come back to this webpage if you are interested in the results. If you have more questions, please feel free to contact the researchers.
-Research Summary TBA
-Main Findings TBA
-Researchers Keh-Kuan Sun
-Assistant Professor, Department of Economics, Fairfield University.
-Email: ksun [at] fairfield [dot] edu Edward Honda
-Assistant Professor, Department of Economics, University of Manitoba.</description>
+      <description>Thank you for participating in [[ experiment title ]] on [[ experiment date ]]. We are currently analyzing the data. Please come back to this webpage if you are interested in the results. If you have more questions, please feel free to contact the researchers.&#xA;Research Summary TBA&#xA;Main Findings TBA&#xA;Researchers Keh-Kuan Sun&#xA;Assistant Professor, Department of Economics, Fairfield University.&#xA;Email: ksun [at] fairfield [dot] edu Edward Honda&#xA;Assistant Professor, Department of Economics, University of Manitoba.</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Recent content on Keh-Kuan Sun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Dec 2022 22:20:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 14:30:00 -0600</lastBuildDate>
     <atom:link href="https://kehkuansun.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
@@ -28,13 +28,6 @@
       <pubDate>Mon, 11 Sep 2023 14:30:00 -0600</pubDate>
       <guid>https://kehkuansun.github.io/about/</guid>
       <description>I am a behavioral and experimental economist. My research interest lies in understanding human nature through the lens of behavioral models of rational agents. I try to uncover the structure of underlying preferences that are hidden behind the constraints of information, social norms, or network structures, through both theoretical and experimental means. I received my Ph.D. in Economics from Washington University in St. Louis. I am an Assitant Professor in the Department of Economics at Fairfield University.</description>
-    </item>
-    <item>
-      <title>Experiment Summary</title>
-      <link>https://kehkuansun.github.io/public_summary/experiment_id/</link>
-      <pubDate>Sun, 04 Dec 2022 22:20:00 -0600</pubDate>
-      <guid>https://kehkuansun.github.io/public_summary/experiment_id/</guid>
-      <description>Thank you for participating in [[ experiment title ]] on [[ experiment date ]]. We are currently analyzing the data. Please come back to this webpage if you are interested in the results. If you have more questions, please feel free to contact the researchers.&#xA;Research Summary TBA&#xA;Main Findings TBA&#xA;Researchers Keh-Kuan Sun&#xA;Assistant Professor, Department of Economics, Fairfield University.&#xA;Email: ksun [at] fairfield [dot] edu Edward Honda&#xA;Assistant Professor, Department of Economics, University of Manitoba.</description>
     </item>
   </channel>
 </rss>

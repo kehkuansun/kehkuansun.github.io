@@ -2,26 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kehkuansun.github.io/public_summary/experiment_id/</loc>
-    <lastmod>2024-03-24T14:20:00-05:00</lastmod>
+    <loc>https://example.org/tags/blue/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://kehkuansun.github.io/</loc>
-    <lastmod>2024-03-24T14:20:00-05:00</lastmod>
+    <loc>https://example.org/tags/green/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://kehkuansun.github.io/public_summary/</loc>
-    <lastmod>2024-03-24T14:20:00-05:00</lastmod>
+    <loc>https://example.org/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://kehkuansun.github.io/research/</loc>
-    <lastmod>2024-01-09T15:30:00-05:00</lastmod>
+    <loc>https://example.org/posts/post-3/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://kehkuansun.github.io/teaching/</loc>
-    <lastmod>2024-01-09T14:30:00-06:00</lastmod>
+    <loc>https://example.org/tags/red/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://kehkuansun.github.io/about/</loc>
-    <lastmod>2023-09-11T14:30:00-06:00</lastmod>
+    <loc>https://example.org/tags/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://kehkuansun.github.io/categories/</loc>
+    <loc>https://example.org/posts/post-2/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://kehkuansun.github.io/tags/</loc>
+    <loc>https://example.org/posts/post-1/</loc>
+    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2023-01-01T08:30:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.org/about/</loc>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/research/</loc>
+  </url><url>
+    <loc>https://example.org/teaching/</loc>
   </url>
 </urlset>

@@ -17,8 +17,8 @@ body {
 main,
 .header-inner,
 footer {
-  max-width: 65ch;
-  /* ~800px max width for optimal reading */
+  max-width: 80ch;
+  /* wide enough to keep a full citation line on one row */
   margin: 0 auto;
   padding: 1rem 1.5rem;
 }
@@ -93,8 +93,12 @@ li {
 .research-line-1 { font-weight: 600; }
 .research-status { margin-left: 0.5rem; font-weight: 400; color: #374151; }
 .research-line-2, .research-line-3 { margin-top: 0.25rem; }
-.research-links { margin-left: 0.5rem; }
-.research-schedule { color: #374151; font-size: 0.95em; }
+.research-links { display: flex; flex-wrap: wrap; gap: 0.25rem 0.5rem; }
+.research-citation { color: #374151; font-size: 0.875em; }
+.research-journal { font-style: italic; }
+.research-doi { overflow-wrap: anywhere; }
+.research-schedule,
+.research-presented { color: #374151; font-size: 0.875em; }
 
 details {
     margin-bottom: 1em; /* Adjust this number to increase/decrease the space */
